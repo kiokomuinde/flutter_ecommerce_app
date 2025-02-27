@@ -79,7 +79,7 @@ class ProductListScreen extends StatelessWidget {
                         mainAxisAlignment: MainAxisAlignment.center,
                         children: [
                           Text(
-                            '30% OFF DURING \nCOVID 19',
+                            '30% OFF DURING \nBlack Fridays',
                             style: Theme.of(context).textTheme.displaySmall?.copyWith(
                                   color: Colors.white,
                                 ),
@@ -167,11 +167,11 @@ class ProductListScreen extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  "Hello Sina",
+                  "Hello Choxx",
                   style: Theme.of(context).textTheme.displayLarge,
                 ),
                 Text(
-                  "Lets gets somethings?",
+                  "Lets get somethings?",
                   style: Theme.of(context).textTheme.headlineSmall,
                 ),
                 _recommendedProductListView(context),
