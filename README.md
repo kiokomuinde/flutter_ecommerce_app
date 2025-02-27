@@ -64,7 +64,7 @@ Package Name        |
 
 ## Created & Maintained By
 
-[SinaSys](https://github.com/kiokomuinde) 
+[kiokomuinde](https://github.com/kiokomuinde) 
 
 
 ## Contributors
